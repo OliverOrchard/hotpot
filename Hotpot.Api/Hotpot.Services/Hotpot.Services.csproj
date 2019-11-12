@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hotpot.Data\Hotpot.Data.csproj" />
+    <ProjectReference Include="..\HotPot.Domain\HotPot.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
