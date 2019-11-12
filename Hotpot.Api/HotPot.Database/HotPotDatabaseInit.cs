@@ -1,6 +1,7 @@
 ﻿using System;
 using Dapper;
 using Hotpot.Data;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Data.SqlClient;
 
 namespace HotPot.Database
